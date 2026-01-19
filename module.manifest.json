@@ -1,0 +1,14 @@
+{
+  "moduleId": "webwaka-core-tenant-lifecycle",
+  "name": "WebWaka Core Tenant Lifecycle",
+  "version": "0.1.0",
+  "class": "core",
+  "description": "Tenant provisioning, configuration, and lifecycle management",
+  "capabilities": [],
+  "dependencies": [],
+  "metadata": {
+    "author": "ChangerPlanet",
+    "license": "Proprietary",
+    "repository": "https://github.com/changerplanet/webwaka-core-tenant-lifecycle"
+  }
+}
